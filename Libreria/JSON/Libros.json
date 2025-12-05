@@ -1,0 +1,72 @@
+[
+    {
+        "codigo": 9780141182636,
+        "titulo": "1984",
+        "fecha_publicacion": 1949,
+        "genero": "Distopía",
+        "autor": "George Orwell"
+    },
+    {
+        "codigo": 9780061120084,
+        "titulo": "To Kill a Mockingbird",
+        "fecha_publicacion": 1960,
+        "genero": "Ficción",
+        "autor": "Harper Lee"
+    },
+    {
+        "codigo": 9780743273565,
+        "titulo": "The Great Gatsby",
+        "fecha_publicacion": 1925,
+        "genero": "Ficción",
+        "autor": "F. Scott Fitzgerald"
+    },
+    {
+        "codigo": 9780143127796,
+        "titulo": "Sapiens: A Brief History of Humankind",
+        "fecha_publicacion": 2011,
+        "genero": "No Ficción",
+        "autor": "Yuval Noah Harari"
+    },
+    {
+        "codigo": 9780307474278,
+        "titulo": "The Catcher in the Rye",
+        "fecha_publicacion": 1951,
+        "genero": "Ficción",
+        "autor": "J.D. Salinger"
+    },
+    {
+        "codigo": 9780374153064,
+        "titulo": "The Road",
+        "fecha_publicacion": 2006,
+        "genero": "Ficción",
+        "autor": "Cormac McCarthy"
+    },
+    {
+        "codigo": 9780151010264,
+        "titulo": "The Book Thief",
+        "fecha_publicacion": 2005,
+        "genero": "Ficción",
+        "autor": "Markus Zusak"
+    },
+    {
+        "codigo": 9780451524935,
+        "titulo": "Brave New World",
+        "fecha_publicacion": 1932,
+        "genero": "Ciencia Ficción",
+        "autor": "Aldous Huxley"
+    },
+    {
+        "codigo": 9780307474278,
+        "titulo": "Moby Dick",
+        "fecha_publicacion": 1851,
+        "genero": "Aventura",
+        "autor": "Herman Melville"
+    },
+    {
+        "codigo": 9780399590504,
+        "titulo": "Educated",
+        "fecha_publicacion": 2018,
+        "genero": "Memorias",
+        "autor": "Tara Westover"
+    }
+]

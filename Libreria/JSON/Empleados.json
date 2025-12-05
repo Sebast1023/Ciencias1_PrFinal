@@ -1,0 +1,100 @@
+[
+    {
+        "cedula": 10482736,
+        "nombre": "Juan Pérez",
+        "correo": "juan.perez@empresa.com",
+        "sede": "Sede Principal",
+        "cargo": "Gerente"
+    },
+    {
+        "cedula": 79154203,
+        "nombre": "Laura Gómez",
+        "correo": "laura.gomez@empresa.com",
+        "sede": "Sede Bogotá",
+        "cargo": "Analista de Sistemas"
+    },
+    {
+        "cedula": 1053982417,
+        "nombre": "Sebastián Pérez",
+        "correo": "sebastian.perez@empresa.com",
+        "sede": "Sede Medellín",
+        "cargo": "Ingeniero Electrónico"
+    },
+    {
+        "cedula": 43782915,
+        "nombre": "Laura Pérez",
+        "correo": "laura.perez@empresa.com",
+        "sede": "Sede Bogotá",
+        "cargo": "Desarrolladora"
+    },
+    {
+        "cedula": 1009572684,
+        "nombre": "Daniel Pérez",
+        "correo": "daniel.perez@empresa.com",
+        "sede": "Sede Cali",
+        "cargo": "Administrador de Proyectos"
+    },
+    {
+        "cedula": 58319740,
+        "nombre": "Valentina Torres",
+        "correo": "valentina.torres@empresa.com",
+        "sede": "Sede Principal",
+        "cargo": "Fisica"
+    },
+    {
+        "cedula": 1147203598,
+        "nombre": "Sergio Agamez",
+        "correo": "sergio.agamez@empresa.com",
+        "sede": "Sede Medellín",
+        "cargo": "Ingeniero de Sistemas"
+    },
+    {
+        "cedula": 22504113,
+        "nombre": "David González",
+        "correo": "david.gonzalez@empresa.com",
+        "sede": "Sede Bogotá",
+        "cargo": "Artista Escénico"
+    },
+    {
+        "cedula": 1012893774,
+        "nombre": "Andrey González",
+        "correo": "andrey.gonzalez@empresa.com",
+        "sede": "Sede Cali",
+        "cargo": "Ingeniero de Sistemas"
+    },
+    {
+        "cedula": 67421085,
+        "nombre": "Ana Sofía Ramírez",
+        "correo": "ana.ramirez@empresa.com",
+        "sede": "Sede Principal",
+        "cargo": "Matemática"
+    },
+    {
+        "cedula": 85261734,
+        "nombre": "Juan Esteban Moreno Durán",
+        "correo": "jemd152006@empresa.com",
+        "sede": "Sede Bogotá",
+        "cargo": "Ingeniero Industrial"
+    },
+    {
+        "cedula": 70324891,
+        "nombre": "Diego Fernando López",
+        "correo": "diegolopez@empresa.com",
+        "sede": "Sede Bogotá",
+        "cargo": "Ingeniero de Sistemas"
+    },
+    {
+        "cedula": 193572804,
+        "nombre": "Sebastián Donado",
+        "correo": "sebastian.donado@empresa.com",
+        "sede": "Sede Medellín",
+        "cargo": "Ingeniero Civil"
+    },
+    {
+        "cedula": 46198327,
+        "nombre": "Danna Pérez",
+        "correo": "danna.perez@empresa.com",
+        "sede": "Sede Principal",
+        "cargo": "Fisica"
+    }
+]
