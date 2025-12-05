@@ -174,9 +174,3 @@ El sistema está diseñado para ser escalable y modular.
 * El AVL incluye mensajes internos para depuración (rotaciones y balanceos).
 
 ---
-
-Si quieres, puedo generarte:
-✔ versión resumida del README
-✔ versión con imágenes y diagramas
-✔ diagrama UML del proyecto
-
